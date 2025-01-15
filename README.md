@@ -1,5 +1,1 @@
-<h1  align="center"> Hi there, I'm </h1>
-<img ![image](https://github.com/user-attachments/assets/eeb9d3f9-daa7-4f02-9927-1899408dc17b)>
-
-
-
+<h1  align="center"> Hi there, I'm <img src="https://www.emojiall.com/images/240/telegram/1f44b.gif" height="32"/></h1>
